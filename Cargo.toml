@@ -1,0 +1,11 @@
+[package]
+name = "Favernus"
+version = "0.1.0"
+authors = ["Makhi Burroughs <saltpepper312@gmail.com>"]
+
+[dependencies]
+vulkano = "0.34.1"
+winit = "0.28.0"
+smallvec = "1.7.0"
+vulkano-win = "0.34.0"
+raw-window-handle = "0.5.2"
